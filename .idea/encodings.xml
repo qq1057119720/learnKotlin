@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
-    <file url="file://$PROJECT_DIR$/src/com/learn/demo/BasicType.kt" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/com/learn/demo/HelloWord.kt" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/com/learn/demo/ListAndMap.kt" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/com/learn/demo/VarAndVal.kt" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/com/learn/demo/ZiFuChuanMoBan.kt" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/com/learn/demo/jisuanqi.kt" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/com/learn/demo/leiduixiang/User.kt" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/com/learn/demo/异常处理.kt" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/com/learn/demo/数据类型" charset="UTF-8" />
-    <file url="PROJECT" charset="GBK" />
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/com/learn/demo/chapter_3/bar_6/Arithmometer.kt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/learn/demo/chapter_4/bar_1/SimpleClass.kt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/learn/demo/chapter_4/bar_2/ExSimple.kt" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
